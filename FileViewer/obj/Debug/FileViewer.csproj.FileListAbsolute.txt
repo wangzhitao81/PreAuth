@@ -1,0 +1,4 @@
+D:\SigiSoft\PreAuthorization\FileViewer\obj\Debug\FileViewer.csprojResolveAssemblyReference.cache
+E:\SigiSoft\PreAuthorization20141003\FileViewer\obj\Debug\FileViewer.csprojResolveAssemblyReference.cache
+E:\SigiSoft\PreAuthorization20141010\FileViewer\obj\Debug\FileViewer.csprojResolveAssemblyReference.cache
+D:\SigiSoft\PreAuthorization20141012\FileViewer\obj\Debug\FileViewer.csprojResolveAssemblyReference.cache
